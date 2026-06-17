@@ -1,0 +1,20 @@
+# ============================================================
+# Requirements - Sistem Ekstraksi Informasi Subtitle YouTube
+# Moch Afaldo Danny Ardiansyah - 2026
+# ============================================================
+# Install: pip install -r requirements.txt
+ 
+# Web Framework
+streamlit==1.47.0
+ 
+# Data Processing
+pandas==2.2.3
+ 
+# YouTube Subtitle Downloader
+yt-dlp==2026.03.17
+ 
+# NLP - Bahasa Indonesia
+PySastrawi==1.0.1
+ 
+# Progress Bar
+tqdm==4.68.1
