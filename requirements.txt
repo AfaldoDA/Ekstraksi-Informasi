@@ -11,7 +11,7 @@ streamlit==1.47.0
 pandas==2.2.3
  
 # YouTube Subtitle Downloader
-yt-dlp==2026.03.17
+yt-dlp
  
 # NLP - Bahasa Indonesia
 PySastrawi==1.0.1
